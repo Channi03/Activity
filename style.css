@@ -70,6 +70,13 @@ nav a{
     padding:0 10px 10px;
 }
 
+/* Rating */
+.rating{
+    color:gold;
+    font-size:18px;
+    padding-bottom:15px;
+}
+
 /* About */
 
 .about{
