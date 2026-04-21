@@ -19,6 +19,13 @@ nav a{
     font-weight:bold;
 }
 
+#searchBar {
+    margin-left: auto;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
 /* Hero Section */
 
 .hero{
