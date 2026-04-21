@@ -25,6 +25,20 @@ nav a:hover{
     color:#222;
 }
 
+ nav {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding: 10px;
+}
+
+#searchBar {
+    margin-left: auto;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
 /* Hero */
 .hero{
     background:url('https://images.unsplash.com/photo-1504674900247-0877df9cc836') center/cover;
